@@ -1,0 +1,24 @@
+{
+  "name": "web_scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex-Cadevall-Baulies/Web_Scraper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alex-Cadevall-Baulies/Web_Scraper/issues"
+  },
+  "homepage": "https://github.com/Alex-Cadevall-Baulies/Web_Scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  }
+}
